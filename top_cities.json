@@ -1,0 +1,27 @@
+[
+  {
+    "city": "上海",
+    "rank": 1,
+    "population": 24150000
+  },
+  {
+    "city": "カラチ",
+    "rank": 2,
+    "population": 23500000
+  },
+  {
+    "city": "北京",
+    "rank": 3,
+    "population": 21516000
+  },
+  {
+    "city": "天津",
+    "rank": 4,
+    "population": 14722100
+  },
+  {
+    "city": "イスタンブル",
+    "rank": 5,
+    "population": 1460467
+  }
+]

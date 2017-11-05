@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>http://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2017</copyright>
+ <lastBuildDate>Sat, 04 Nov 2017 08:22:00 +0900</lastBuildDate>
+ <image>
+  <url>http://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>http://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2017年11月2日　はちべい軍団 ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201711/02</link>
+  <description>はちべいとゆかいな仲間たち他です。</description>
+  <pubDate>Thu, 02 Nov 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201711/02</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>注目セッションレポート「グラブル流運用術」「PHPで作るサービスの，これまでの10年とこれからの10年」「PHP Version UpとAWSへの移行」「運用，追加開発しづらいPHPアプリケーションに未来を与える方法」 ── PHPカンファレンス2017 レポート</title>
+  <link>http://gihyo.jp/news/report/01/phpcon2017/0003</link>
+  <description>10月18日に行われたPHP Confarence 2017。本稿では，4つの注目セッションをレポートします。</description>
+  <pubDate>Thu, 02 Nov 2017 10:06:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report/01/phpcon2017">PHPカンファレンス2017 レポート</category>
+  <guid>http://gihyo.jp/news/report/01/phpcon2017/0003</guid> 
+  <author>近藤祥平</author>
+ </item>
+ <item>
+  <title>2017年11月第1週　デベロッパ向けにAndroid 8.1を提供開始 ── Android Weekly Topics</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/awt/201711/02</link>
+  <description>2017年11月第1週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 02 Nov 2017 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/awt/201711/02</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2017年11月第1週号 1位は，モバイルでのUXの見栄えを良くするための5つのデザイントリック，気になるネタは，Saying Goodbye to Firebug（さよならFirebug） ── 週刊Webテク通信</title>
+  <link>http://gihyo.jp/design/clip/01/weekly-web-tech/201711/02</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2017年10月23日～10月29日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 02 Nov 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>http://gihyo.jp/design/clip/01/weekly-web-tech/201711/02</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>2017年11月1日　交差点のねこーず ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201711/01</link>
+  <description>信号のある交差点のねこーずです。</description>
+  <pubDate>Wed, 01 Nov 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201711/01</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2017年11月1日　OpenSolarisフォークの「OpenIndiana Hipster 2017.10」がリリース ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201711/01</link>
+  <description>OpenIndianaプロジェクトは10月31日，「OpenIndiana Hipster 2017.10」を正式公開した。</description>
+  <pubDate>Wed, 01 Nov 2017 12:26:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201711/01</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>徳丸浩さん，著名PHPアプリの脆弱性に学ぶセキュアコーディングの原則 〜PHPカンファレンス2017 ゲストスピーカーセッション ── PHPカンファレンス2017 レポート</title>
+  <link>http://gihyo.jp/news/report/01/phpcon2017/0002</link>
+  <description>10月8日，PHPカンファレンス2017が開催されました。本稿では，ゲストスピーカーセッションである徳丸浩さんの講演「著名PHPアプリの脆弱性に学ぶセキュアコーディングの原則」をレポートします。</description>
+  <pubDate>Wed, 01 Nov 2017 10:59:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report/01/phpcon2017">PHPカンファレンス2017 レポート</category>
+  <guid>http://gihyo.jp/news/report/01/phpcon2017/0002</guid> 
+  <author>田岡健人</author>
+ </item>
+ <item>
+  <title>第495回　Ubuntu Serverの新しいインストーラー「Subiquity」 ── Ubuntu Weekly Recipe</title>
+  <link>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0495</link>
+  <description>Ubuntuでは現在，サーバー向けの新しいインストーラーである「Subiquity」を開発しています。Ubuntu 17.10からはSubiquity採用のイメージも実験的に配布されるようになりました。今回はこのSubiquityの使い方を紹介しましょう。</description>
+  <pubDate>Wed, 01 Nov 2017 10:03:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0495</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>WEB+DB PRESS Vol.100へのお便り ── はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ</title>
+  <link>http://gihyo.jp/dev/serial/01/readers-forum/vol101</link>
+  <description>こんにちはこんにちは!! もう秋ですね！ 読書の秋ということで，ぼくは前号100号記念選書で紹介されていた本を移動中などに少しずつ読んでいます。</description>
+  <pubDate>Wed, 01 Nov 2017 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/readers-forum">はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ</category>
+  <guid>http://gihyo.jp/dev/serial/01/readers-forum/vol101</guid> 
+  <author>はまちや2，竹原</author>
+ </item>
+ <item>
+  <title>第27回　MySQL Enterprise Monitor 4.0リリース，PostgreSQL10.0リリース ── OSSデータベース取り取り時報</title>
+  <link>http://gihyo.jp/dev/serial/01/oss-db-various-news/0027</link>
+  <description>MySQLの商用版監視ツールのMySQL Enterprise Monitor 4.0がリリースされました。そして，PostgreSQL 10.0がリリースされました。</description>
+  <pubDate>Wed, 01 Nov 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/oss-db-various-news">OSSデータベース取り取り時報</category>
+  <guid>http://gihyo.jp/dev/serial/01/oss-db-various-news/0027</guid> 
+  <author>山本文彦，梶山隆輔</author>
+ </item>
+ <item>
+  <title>アドバンスソフトウェア，郵便番号，住所検索コンポーネント「Yubin7 for Java」を発売 ── ニュースリリース</title>
+  <link>http://gihyo.jp/news/nr/2017/10/3101</link>
+  <description>アドバンスソフトウェア（株）は，Java環境で住所，郵便番号の検索，変換を可能にする開発コンポーネント「Yubin7 for Java」を，2017年10月31日に発売した。</description>
+  <pubDate>Tue, 31 Oct 2017 16:57:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>http://gihyo.jp/news/nr/2017/10/3101</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2017年10月31日　技評ねこ部の投稿コーナー！ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201710/31</link>
+  <description>今月もなんとか続けられました！ありがとうございます！さて，本日は投稿いただいた写真をご紹介いたします！</description>
+  <pubDate>Tue, 31 Oct 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201710/31</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>廣川類さん，PHPの今とこれから2017 〜PHPカンファレンス2017 ゲストスピーカーセッション ── PHPカンファレンス2017 レポート</title>
+  <link>http://gihyo.jp/news/report/01/phpcon2017/0001</link>
+  <description>10月8日，東京・大田区産業プラザPiOにて，PHPカンファレンス2017が開催されました。本稿では，ゲストスピーカーセッションである廣川類さんの講演をレポートします。</description>
+  <pubDate>Tue, 31 Oct 2017 09:57:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report/01/phpcon2017">PHPカンファレンス2017 レポート</category>
+  <guid>http://gihyo.jp/news/report/01/phpcon2017/0001</guid> 
+  <author>中村慎吾</author>
+ </item>
+ <item>
+  <title>第96回　サイトの防御とFail2ban［その2］ ── 玩式草子─ソフトウェアとたわむれる日々</title>
+  <link>http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0096</link>
+  <description>前回は予定を変更して急遽「らじる★らじる」の話題をとりあげたため，少々間が空いてしまったものの，今回は前々回の続きで&quot;Fail2ban&quot;の話題を取りあげます。</description>
+  <pubDate>Tue, 31 Oct 2017 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi">玩式草子─ソフトウェアとたわむれる日々</category>
+  <guid>http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0096</guid> 
+  <author>こじまみつひろ</author>
+ </item>
+ <item>
+  <title>第57回　mysql_config_editorを試してみよう ── MySQL道普請便り</title>
+  <link>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0057</link>
+  <description>MySQLアカウントのログインパスワードを，開発／運用する人のPCごとに管理している時に，退職や異動などによってパスワードの変更がどうしても必要になってしまった場合に，パスワードの変更周知と変更したパスワードの配布に困ったことはありませんか。</description>
+  <pubDate>Tue, 31 Oct 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0057</guid> 
+  <author>木村浩一郎</author>
+ </item>
+ <item>
+  <title>2017年10月30日　夜のねこビーム ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201710/30</link>
+  <description>タペータム，いい響きです。</description>
+  <pubDate>Mon, 30 Oct 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201710/30</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2017年10月30日　Linux 4.14-rc7がリリース，正式版は11/12か ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201710/30</link>
+  <description>Linus Torvaldsは10月29日（米国時間），次期Linuxカーネルの7本目のリリース候補版となる「Linux 4.14-rc7」を公開した。</description>
+  <pubDate>Mon, 30 Oct 2017 13:43:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201710/30</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>第8回　無駄な英語勉強 ── 継続は力なり―大器晩成エンジニアを目指して</title>
+  <link>http://gihyo.jp/dev/serial/01/continue-power/0008</link>
+  <description>IT業界は比較的英語が必要とされる。ドキュメントは英語で書かれていることが多く，多くのニュースは海外からやってくる。プログラマーは英語の必要性を感じやすい職業と言えるだろう。</description>
+  <pubDate>Mon, 30 Oct 2017 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/continue-power">継続は力なり―大器晩成エンジニアを目指して</category>
+  <guid>http://gihyo.jp/dev/serial/01/continue-power/0008</guid> 
+  <author>ひげぽん</author>
+ </item>
+ <item>
+  <title>第39回　2017年10月～今月も脆弱性祭り～わかっちゃいますが尽きる気配はまったくありません ── インフラセキュリティの処方箋</title>
+  <link>http://gihyo.jp/admin/serial/01/infrasec/0039</link>
+  <description>2017年10月は，脆弱性や攻撃が相次いで発見・報告された月でした。今月は，9月に発見され，10月に修正されたApache Tomcatの脆弱性とWPA/WPA2の脆弱性であるKRACKsについて解説を行います。</description>
+  <pubDate>Mon, 30 Oct 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/infrasec">インフラセキュリティの処方箋</category>
+  <guid>http://gihyo.jp/admin/serial/01/infrasec/0039</guid> 
+  <author>宮本久仁男</author>
+ </item>
+ <item>
+  <title>2017年10月27日　夜の横断中のねこ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201710/27</link>
+  <description>道路を横断するときは，右を見て左を見て上も見て，さらに振り返ってねこがいないか確認してから渡るタイプです。</description>
+  <pubDate>Fri, 27 Oct 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201710/27</guid> 
+  <author></author>
+ </item>
+</channel>
+</rss>
